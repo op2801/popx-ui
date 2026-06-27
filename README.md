@@ -1,4 +1,4 @@
-# 📱 PopX UI Assignment
+# 📱 PopX UI
 
 A modern and responsive **PopX UI Clone** built with **React.js** and **Vite**, following the provided Adobe XD design. The project focuses on reusable React components, clean code structure, and pixel-perfect UI implementation.
 
