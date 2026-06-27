@@ -2,7 +2,7 @@ import { useNavigate } from "react-router-dom";
 import Layout from "../components/Layout";
 import Button from "../components/Button";
 import "../style/welcome.css";
-function Welcome() {
+function Wellcome() {
   const navigate = useNavigate();
   return (
     <Layout>
@@ -20,4 +20,4 @@ function Welcome() {
   );
 }
 
-export default Welcome;
+export default Wellcome;
