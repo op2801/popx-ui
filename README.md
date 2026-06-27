@@ -93,6 +93,7 @@ The objective of this assignment was to recreate the provided PopX mobile UI usi
 **Op Lilhare**
 
 GitHub: https://github.com/op2801
+Live Link:https://popx-ui-chi.vercel.app/
 
 ---
 
